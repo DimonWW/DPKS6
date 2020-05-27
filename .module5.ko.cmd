@@ -1,0 +1,1 @@
+cmd_/home/dima/repos/busybox/_install/lab6/module5.ko := ccache arm-eabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/dima/repos/busybox/_install/lab6/module5.ko /home/dima/repos/busybox/_install/lab6/module5.o /home/dima/repos/busybox/_install/lab6/module5.mod.o ;  true
